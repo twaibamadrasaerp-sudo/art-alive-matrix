@@ -5,11 +5,11 @@ const programmes = [
     "nameEn": "Typography",
     "aliases": [
       "Typography",
-      "typography",
-      "type design",
-      "ടൈപ്പോഗ്രഫി",
+      "typography design",
       "lettering",
-      "typography design"
+      "typography",
+      "ടൈപ്പോഗ്രഫി",
+      "type design"
     ],
     "section": "tech",
     "category": "TECH CREATIVE",
@@ -74,14 +74,14 @@ const programmes = [
     "name": "AI പോം മേക്കിങ്",
     "nameEn": "AI Poem Making",
     "aliases": [
-      "എ ഐ പോയം",
-      "poem making",
-      "AI പോം മേക്കിങ്",
       "ai poem",
+      "എ ഐ പോയം",
       "എഐ പോയം",
+      "poem making",
       "ai poetry",
+      "ai poem making",
       "AI Poem Making",
-      "ai poem making"
+      "AI പോം മേക്കിങ്"
     ],
     "section": "ai",
     "category": "TECH CREATIVE",
@@ -161,11 +161,11 @@ const programmes = [
     "name": "റീൽ പോസ്റ്റ്",
     "nameEn": "Reel Post",
     "aliases": [
+      "insta reel",
+      "reel post",
+      "short video",
       "reel",
       "റീൽ പോസ്റ്റ്",
-      "reel post",
-      "insta reel",
-      "short video",
       "Reel Post"
     ],
     "section": "tech",
@@ -240,12 +240,12 @@ const programmes = [
     "nameEn": "E-Poster",
     "aliases": [
       "poster design",
-      "ഇ-പോസ്റ്റർ",
-      "e-poster",
       "ഇ പോസ്റ്റർ",
       "digital poster",
+      "e-poster",
       "E-Poster",
-      "eposter"
+      "eposter",
+      "ഇ-പോസ്റ്റർ"
     ],
     "section": "tech",
     "category": "TECH CREATIVE",
@@ -311,11 +311,11 @@ const programmes = [
     "name": "ഡിജിറ്റൽ പെയിന്റിങ്",
     "nameEn": "Digital Painting",
     "aliases": [
-      "digital painting",
-      "Digital Painting",
-      "digital paint",
       "digital drawing",
-      "ഡിജിറ്റൽ പെയിന്റിങ്"
+      "Digital Painting",
+      "digital painting",
+      "ഡിജിറ്റൽ പെയിന്റിങ്",
+      "digital paint"
     ],
     "section": "tech",
     "category": "TECH CREATIVE",
@@ -388,11 +388,11 @@ const programmes = [
     "name": "AI പ്രോംപ്റ്റിങ്",
     "nameEn": "AI Prompting",
     "aliases": [
-      "prompt engineering",
-      "prompting",
-      "ai prompting",
       "ai report",
+      "prompt engineering",
       "AI പ്രോംപ്റ്റിങ്",
+      "ai prompting",
+      "prompting",
       "AI Prompting"
     ],
     "section": "ai",
@@ -474,11 +474,11 @@ const programmes = [
     "name": "എ ഐ വീഡിയോ മേക്കിങ്",
     "nameEn": "AI Video Making",
     "aliases": [
-      "എ ഐ വീഡിയോ മേക്കിങ്",
-      "ai video",
       "video generation",
+      "AI Video Making",
       "ai video making",
-      "AI Video Making"
+      "ai video",
+      "എ ഐ വീഡിയോ മേക്കിങ്"
     ],
     "section": "ai",
     "category": "TECH CREATIVE",
@@ -551,12 +551,12 @@ const programmes = [
     "name": "മാഗസിൻ ലേ ഔട്ട്",
     "nameEn": "Magazine Layout",
     "aliases": [
-      "മാഗസിൻ ലേഔട്ട്",
-      "magazine layout",
       "Magazine Layout",
-      "editorial design",
       "indesign",
-      "മാഗസിൻ ലേ ഔട്ട്"
+      "മാഗസിൻ ലേഔട്ട്",
+      "മാഗസിൻ ലേ ഔട്ട്",
+      "magazine layout",
+      "editorial design"
     ],
     "section": "tech",
     "category": "TECH CREATIVE",
@@ -621,12 +621,12 @@ const programmes = [
     "name": "സയൻസ് വിഷൻ",
     "nameEn": "Science Vision",
     "aliases": [
-      "science vision",
       "science project",
       "working model",
       "science exhibition",
       "സയൻസ് വിഷൻ",
-      "Science Vision"
+      "Science Vision",
+      "science vision"
     ],
     "section": "tech",
     "category": "TECH CREATIVE",
@@ -694,8 +694,8 @@ const programmes = [
       "emagazine",
       "ഡിജിറ്റൽ മാഗസിൻ",
       "digital magazine",
-      "Digital Magazine",
-      "e-magazine"
+      "e-magazine",
+      "Digital Magazine"
     ],
     "section": "tech",
     "category": "TECH CREATIVE",
@@ -760,12 +760,12 @@ const programmes = [
     "name": "ഇവന്റ് വെബ് ക്രിയേഷൻ",
     "nameEn": "Event Web Creation",
     "aliases": [
-      "Event Web Creation",
-      "event web",
+      "web design",
+      "website creation",
       "ഇവന്റ് വെബ് ക്രിയേഷൻ",
       "event web creation",
-      "website creation",
-      "web design"
+      "event web",
+      "Event Web Creation"
     ],
     "section": "tech",
     "category": "TECH CREATIVE",
@@ -838,12 +838,12 @@ const programmes = [
     "name": "ഡിജിറ്റൽ ഇല്ലസ്ട്രേഷൻ",
     "nameEn": "Digital Illustration",
     "aliases": [
+      "digital illustration",
+      "logo design",
+      "monogram",
       "Digital Illustration",
       "ഡിജിറ്റൽ ഇല്ലസ്ട്രേഷൻ",
-      "monogram",
-      "vector illustration",
-      "logo design",
-      "digital illustration"
+      "vector illustration"
     ],
     "section": "tech",
     "category": "TECH CREATIVE",
@@ -916,12 +916,12 @@ const programmes = [
     "name": "തർതീൽ",
     "nameEn": "Tharteel",
     "aliases": [
-      "tharteel",
-      "quran recitation",
-      "tajweed",
       "ഖുർആൻ പാരായണം",
-      "Tharteel",
-      "തർതീൽ"
+      "quran recitation",
+      "തർതീൽ",
+      "tajweed",
+      "tharteel",
+      "Tharteel"
     ],
     "section": "vocal",
     "category": "VOCAL",
@@ -986,9 +986,9 @@ const programmes = [
     "nameEn": "Mappilappattu",
     "aliases": [
       "mappila song",
-      "mappilappattu",
-      "മാപ്പിളപ്പാട്ട്",
       "Mappilappattu",
+      "മാപ്പിളപ്പാട്ട്",
+      "mappilappattu",
       "traditional song"
     ],
     "section": "vocal",
@@ -1046,11 +1046,11 @@ const programmes = [
     "name": "മദ്ഹ് ഗാനം",
     "nameEn": "Madh Song",
     "aliases": [
-      "praise song",
-      "Madh Song",
       "madh song",
       "മദ്ഹ് ഗാനം",
-      "prophetic praise"
+      "praise song",
+      "prophetic praise",
+      "Madh Song"
     ],
     "section": "vocal",
     "category": "VOCAL",
@@ -1114,11 +1114,11 @@ const programmes = [
     "name": "ഹംദ് ഉറുദു",
     "nameEn": "Hamd Urdu",
     "aliases": [
-      "urdu hamd",
-      "ഹംദ് ഉറുദു",
-      "hamd",
       "hamd urdu",
-      "Hamd Urdu"
+      "Hamd Urdu",
+      "urdu hamd",
+      "hamd",
+      "ഹംദ് ഉറുദു"
     ],
     "section": "vocal",
     "category": "VOCAL",
@@ -1190,13 +1190,13 @@ const programmes = [
     "name": "പോം റെസിറ്റേഷൻ",
     "nameEn": "Poem Recitation English",
     "aliases": [
+      "recitation",
+      "പോം റെസിറ്റേഷൻ",
+      "english poem recitation",
+      "poem recitation english",
       "പദ്യപാരായണം ഇംഗ്ലീഷ്",
       "poem recitation",
-      "പോം റെസിറ്റേഷൻ",
-      "recitation",
-      "Poem Recitation English",
-      "english poem recitation",
-      "poem recitation english"
+      "Poem Recitation English"
     ],
     "section": "vocal",
     "category": "VOCAL",
@@ -1260,11 +1260,11 @@ const programmes = [
     "name": "ക്യാപ്ഷൻ സോങ്",
     "nameEn": "Caption Song",
     "aliases": [
-      "caption song",
-      "Caption Song",
       "group song",
-      "ക്യാപ്ഷൻ സോങ്",
-      "theme song"
+      "caption song",
+      "theme song",
+      "Caption Song",
+      "ക്യാപ്ഷൻ സോങ്"
     ],
     "section": "vocal",
     "category": "VOCAL",
@@ -1328,9 +1328,9 @@ const programmes = [
     "name": "മാഷപ്പ്",
     "nameEn": "Mashup",
     "aliases": [
-      "മാഷപ്പ്",
-      "mashup",
       "madh mashup",
+      "mashup",
+      "മാഷപ്പ്",
       "Mashup",
       "song medley"
     ],
@@ -1396,8 +1396,8 @@ const programmes = [
     "name": "ഖവാലി",
     "nameEn": "Qawwali",
     "aliases": [
-      "qawwali",
       "sufi qawwali",
+      "qawwali",
       "ഖവ്വാലി",
       "Qawwali",
       "ഖവാലി"
@@ -1475,10 +1475,10 @@ const programmes = [
     "nameEn": "Nasheed Arabic",
     "aliases": [
       "nasheed",
-      "Nasheed Arabic",
-      "നശീദ അറബിക്",
-      "നശീദ അറബിയ്യ",
       "nasheed arabic",
+      "നശീദ അറബിയ്യ",
+      "നശീദ അറബിക്",
+      "Nasheed Arabic",
       "arabic nasheed"
     ],
     "section": "vocal",
@@ -1551,11 +1551,11 @@ const programmes = [
     "name": "മാല പ്രസന്റേഷൻ",
     "nameEn": "Mala Presentation",
     "aliases": [
-      "mala song",
-      "mala presentation",
       "muhiyudheen mala",
-      "Mala Presentation",
-      "മാല പ്രസന്റേഷൻ"
+      "mala presentation",
+      "മാല പ്രസന്റേഷൻ",
+      "mala song",
+      "Mala Presentation"
     ],
     "section": "vocal",
     "category": "VOCAL",
@@ -1628,12 +1628,12 @@ const programmes = [
     "name": "വഅള്",
     "nameEn": "Va'azh",
     "aliases": [
+      "va'azh",
       "prabhashanam",
-      "vaazh",
-      "വഅള്",
-      "religious speech",
       "Va'azh",
-      "va'azh"
+      "വഅള്",
+      "vaazh",
+      "religious speech"
     ],
     "section": "presentation",
     "category": "PRESENTATION",
@@ -1689,12 +1689,12 @@ const programmes = [
     "name": "ഫേസ് ടു ഫേസ്",
     "nameEn": "Face to Face",
     "aliases": [
+      "interview conversation",
       "face to face",
       "ഫേസ് ടു ഫേസ്",
-      "Face to Face",
       "close to close",
-      "interview conversation",
-      "dialogue"
+      "dialogue",
+      "Face to Face"
     ],
     "section": "presentation",
     "category": "PRESENTATION",
@@ -1758,12 +1758,12 @@ const programmes = [
     "name": "പ്രസംഗം",
     "nameEn": "Speech",
     "aliases": [
-      "Speech",
+      "elocution",
+      "പ്രസംഗം",
       "speech malayalam",
       "prapashanam",
-      "പ്രസംഗം",
-      "speech",
-      "elocution"
+      "Speech",
+      "speech"
     ],
     "section": "presentation",
     "category": "PRESENTATION",
@@ -1820,11 +1820,11 @@ const programmes = [
     "name": "ഇന്റർനാഷണൽ ദർസ്",
     "nameEn": "International Dars",
     "aliases": [
-      "ഇന്റർനാഷണൽ ദർസ്",
-      "International Dars",
-      "english dars",
       "dars",
-      "international dars"
+      "ഇന്റർനാഷണൽ ദർസ്",
+      "international dars",
+      "International Dars",
+      "english dars"
     ],
     "section": "presentation",
     "category": "PRESENTATION",
@@ -1889,10 +1889,10 @@ const programmes = [
     "name": "കമന്ററി",
     "nameEn": "Commentary",
     "aliases": [
-      "live commentary",
+      "Commentary",
       "കമന്ററി",
       "commentary",
-      "Commentary",
+      "live commentary",
       "arabic commentary"
     ],
     "section": "presentation",
@@ -1957,11 +1957,11 @@ const programmes = [
     "name": "ഐഡിയൽ ടോക്ക്",
     "nameEn": "Ideal Talk",
     "aliases": [
-      "aqaid talk",
-      "ഐഡിയൽ ടോക്ക്",
       "ideal talk",
       "Ideal Talk",
-      "adarsha prabhashanam"
+      "ഐഡിയൽ ടോക്ക്",
+      "adarsha prabhashanam",
+      "aqaid talk"
     ],
     "section": "presentation",
     "category": "PRESENTATION",
@@ -2025,11 +2025,11 @@ const programmes = [
     "name": "മുമാറസതു തൻകീഹ്",
     "nameEn": "Mumarasathu Thanqeeh",
     "aliases": [
-      "മുമാറസതു തൻഖീഹ്",
+      "mumarasathu thanqeeh",
       "nikah practice",
       "മുമാറസതു തൻകീഹ്",
       "Mumarasathu Thanqeeh",
-      "mumarasathu thanqeeh",
+      "മുമാറസതു തൻഖീഹ്",
       "thanqeeh"
     ],
     "section": "presentation",
@@ -2096,10 +2096,10 @@ const programmes = [
     "nameEn": "Socio Synopsis",
     "aliases": [
       "synopsis",
-      "സോഷ്യോ സിനോപ്സിസ്",
+      "socio synopsis",
       "storytelling",
       "സോഷ്യോ സിനാപ്സിസ്",
-      "socio synopsis",
+      "സോഷ്യോ സിനോപ്സിസ്",
       "Socio Synopsis"
     ],
     "section": "presentation",
@@ -2164,12 +2164,12 @@ const programmes = [
     "name": "സീറ ലക്ചറിംഗ്",
     "nameEn": "Seerah Lecturing",
     "aliases": [
+      "fiqh seerah",
       "Seerah Lecturing",
-      "seerah speech",
-      "seerah lecturing",
       "സീറ ലക്ചറിംഗ്",
       "സീറ ലക്ചറിങ്",
-      "fiqh seerah"
+      "seerah speech",
+      "seerah lecturing"
     ],
     "section": "presentation",
     "category": "PRESENTATION",
@@ -2241,11 +2241,11 @@ const programmes = [
     "name": "ഫിഖ്ഹ് പോഡ്കാസ്റ്റ്",
     "nameEn": "Fiqh Podcast",
     "aliases": [
-      "fiqh podcast",
-      "ഫിഖ്ഹ് പോഡ്കാസ്റ്റ്",
       "live podcast",
-      "podcast",
-      "Fiqh Podcast"
+      "ഫിഖ്ഹ് പോഡ്കാസ്റ്റ്",
+      "Fiqh Podcast",
+      "fiqh podcast",
+      "podcast"
     ],
     "section": "presentation",
     "category": "PRESENTATION",
@@ -2309,11 +2309,11 @@ const programmes = [
     "name": "ഖുതുബ കോണ്ടസ്റ്റ്",
     "nameEn": "Khutbah Contest",
     "aliases": [
-      "khutbah",
       "ഖുതുബ കോൺടെസ്റ്റ്",
       "ഖുതുബ കോണ്ടസ്റ്റ്",
       "Khutbah Contest",
-      "khutbah contest"
+      "khutbah contest",
+      "khutbah"
     ],
     "section": "presentation",
     "category": "PRESENTATION",
@@ -2377,11 +2377,11 @@ const programmes = [
     "name": "അക്കാദമിക് ഇന്റർവ്യൂ",
     "nameEn": "Academic Interview",
     "aliases": [
+      "Academic Interview",
       "അക്കാദമിക് ഇന്റർവ്യൂ",
       "academic interview",
       "interview",
-      "sop interview",
-      "Academic Interview"
+      "sop interview"
     ],
     "section": "presentation",
     "category": "PRESENTATION",
@@ -2437,12 +2437,12 @@ const programmes = [
     "name": "ലൈവ് റിപ്പോർട്ടിംഗ്",
     "nameEn": "Live Reporting",
     "aliases": [
-      "ലൈവ് റിപ്പോർട്ടിംഗ്",
-      "Live Reporting",
       "news reporting",
       "media reporting",
-      "ലൈവ് റിപ്പോർട്ടിങ്",
-      "live reporting"
+      "ലൈവ് റിപ്പോർട്ടിംഗ്",
+      "Live Reporting",
+      "live reporting",
+      "ലൈവ് റിപ്പോർട്ടിങ്"
     ],
     "section": "presentation",
     "category": "PRESENTATION",
@@ -2514,12 +2514,12 @@ const programmes = [
     "name": "എക്സ്റ്റംബർ സ്പീച്ച്",
     "nameEn": "Extempore Speech",
     "aliases": [
-      "spot speech",
       "extempore speech",
-      "extempore",
-      "Extempore Speech",
+      "എക്സ്റ്റംപർ സ്പീച്ച്",
+      "spot speech",
       "എക്സ്റ്റംബർ സ്പീച്ച്",
-      "എക്സ്റ്റംപർ സ്പീച്ച്"
+      "Extempore Speech",
+      "extempore"
     ],
     "section": "presentation",
     "category": "PRESENTATION",
@@ -2583,11 +2583,11 @@ const programmes = [
     "name": "Voice X",
     "nameEn": "Voice X",
     "aliases": [
-      "voice-x",
-      "voicex",
       "ted talk",
+      "voicex",
       "voice x",
-      "Voice X"
+      "Voice X",
+      "voice-x"
     ],
     "section": "presentation",
     "category": "PRESENTATION",
@@ -2667,10 +2667,10 @@ const programmes = [
     "name": "ബൈലിംഗ്വൽ സ്പീച്ച്",
     "nameEn": "Bilingual Speech",
     "aliases": [
-      "bilingual speech",
-      "ബൈലിംഗ്വൽ സ്പീച്ച്",
       "translation speech",
       "bilingual",
+      "bilingual speech",
+      "ബൈലിംഗ്വൽ സ്പീച്ച്",
       "Bilingual Speech"
     ],
     "section": "presentation",
@@ -2739,9 +2739,9 @@ const programmes = [
     "nameEn": "Political Debate",
     "aliases": [
       "panel discussion",
-      "Political Debate",
       "political debate",
       "debate",
+      "Political Debate",
       "പൊളിറ്റിക്കൽ ഡിബേറ്റ്"
     ],
     "section": "presentation",
@@ -2798,9 +2798,9 @@ const programmes = [
     "name": "ഇന്റർനാഷണൽ സമ്മിറ്റ്",
     "nameEn": "International Summit",
     "aliases": [
-      "International Summit",
-      "multilingual summit",
       "summit",
+      "multilingual summit",
+      "International Summit",
       "ഇന്റർനാഷണൽ സമ്മിറ്റ്",
       "international summit"
     ],
@@ -2877,11 +2877,11 @@ const programmes = [
     "name": "ഹൽഖ ടോക്ക്",
     "nameEn": "Halaqa Talk",
     "aliases": [
-      "ഹൽഖ ടോക്ക്",
-      "halaqa talk",
-      "halaqah",
       "Halaqa Talk",
-      "spiritual talk"
+      "halaqah",
+      "halaqa talk",
+      "spiritual talk",
+      "ഹൽഖ ടോക്ക്"
     ],
     "section": "presentation",
     "category": "PRESENTATION",
@@ -2945,11 +2945,11 @@ const programmes = [
     "name": "മീറ്റ് ദി എക്സ്പെർട്ട്",
     "nameEn": "Meet the Expert",
     "aliases": [
-      "expert interview",
-      "video interview",
-      "Meet the Expert",
       "meet the expert",
-      "മീറ്റ് ദി എക്സ്പെർട്ട്"
+      "expert interview",
+      "Meet the Expert",
+      "മീറ്റ് ദി എക്സ്പെർട്ട്",
+      "video interview"
     ],
     "section": "presentation",
     "category": "PRESENTATION",
@@ -3014,12 +3014,12 @@ const programmes = [
     "name": "കാപ്ചർ ദി ഫ്ളാഗ്",
     "nameEn": "Capture the Flag",
     "aliases": [
-      "capture the flag",
-      "കാപ്ചർ ദി ഫ്ളാഗ്",
-      "ക്യാപ്ചർ ദി ഫ്ലാഗ്",
-      "Capture the Flag",
       "flag hunt",
-      "ctf"
+      "Capture the Flag",
+      "capture the flag",
+      "ക്യാപ്ചർ ദി ഫ്ലാഗ്",
+      "ctf",
+      "കാപ്ചർ ദി ഫ്ളാഗ്"
     ],
     "section": "presentation",
     "category": "PRESENTATION",
@@ -3084,12 +3084,12 @@ const programmes = [
     "name": "DPR പ്രസന്റേഷൻ",
     "nameEn": "DPR Presentation",
     "aliases": [
-      "dpr",
-      "startup pitch",
-      "DPR പ്രസന്റേഷൻ",
+      "project report",
       "DPR Presentation",
-      "dpr presentation",
-      "project report"
+      "DPR പ്രസന്റേഷൻ",
+      "startup pitch",
+      "dpr",
+      "dpr presentation"
     ],
     "section": "presentation",
     "category": "PRESENTATION",
@@ -3154,12 +3154,12 @@ const programmes = [
     "name": "ഹെറിറ്റേജ് വോക്ക്",
     "nameEn": "Heritage Walk",
     "aliases": [
-      "ഹെറിറ്റേജ് വോക്ക്",
-      "documentary video",
       "Heritage Walk",
-      "heritage video",
+      "ഹെറിറ്റേജ് വോക്ക്",
+      "ഹെറിറ്റേജ് വാക്ക്",
+      "documentary video",
       "heritage walk",
-      "ഹെറിറ്റേജ് വാക്ക്"
+      "heritage video"
     ],
     "section": "presentation",
     "category": "PRESENTATION",
@@ -3292,12 +3292,12 @@ const programmes = [
     "nameEn": "Poetry Writing",
     "aliases": [
       "കവിത",
-      "കവിതാരചന",
-      "poem",
-      "poetry writing",
-      "കവിതാ രചന",
       "Poetry Writing",
-      "poetry"
+      "poetry",
+      "poetry writing",
+      "കവിതാരചന",
+      "കവിതാ രചന",
+      "poem"
     ],
     "section": "writings",
     "category": "WRITINGS",
@@ -3354,12 +3354,12 @@ const programmes = [
     "name": "കഥാരചന",
     "nameEn": "Story Writing",
     "aliases": [
-      "story writing",
-      "Story Writing",
       "കഥാരചന",
-      "കഥാ രചന",
       "short story",
-      "കഥ"
+      "കഥാ രചന",
+      "കഥ",
+      "story writing",
+      "Story Writing"
     ],
     "section": "writings",
     "category": "WRITINGS",
@@ -3427,11 +3427,11 @@ const programmes = [
     "nameEn": "Essay Writing",
     "aliases": [
       "Essay Writing",
-      "ഉപന്യാസം",
-      "ഉപന്യാസരചന",
-      "ഉപന്യാസ രചന",
       "essay",
-      "essay writing"
+      "essay writing",
+      "ഉപന്യാസം",
+      "ഉപന്യാസ രചന",
+      "ഉപന്യാസരചന"
     ],
     "section": "writings",
     "category": "WRITINGS",
@@ -3571,11 +3571,11 @@ const programmes = [
     "name": "സോഷ്യൽ ടെക്സ്റ്റ്",
     "nameEn": "Social Text",
     "aliases": [
+      "സോഷ്യൽ ടെക്സ്റ്റ്",
+      "social note",
       "social text",
       "പ്രതികരണക്കുറിപ്പ്",
-      "social note",
-      "Social Text",
-      "സോഷ്യൽ ടെക്സ്റ്റ്"
+      "Social Text"
     ],
     "section": "writings",
     "category": "WRITINGS",
@@ -3640,10 +3640,10 @@ const programmes = [
     "nameEn": "Slogan Writing",
     "aliases": [
       "മുദ്രാവാക്യം",
-      "slogan",
-      "മുദ്രാവാക്യ രചന",
+      "slogan writing",
       "Slogan Writing",
-      "slogan writing"
+      "slogan",
+      "മുദ്രാവാക്യ രചന"
     ],
     "section": "writings",
     "category": "WRITINGS",
@@ -3707,10 +3707,10 @@ const programmes = [
     "name": "മദ്ഹ് ഗാന രചന",
     "nameEn": "Madh Song Writing",
     "aliases": [
-      "മദ്ഹ് ഗാന രചന",
-      "madh song writing",
       "Madh Song Writing",
+      "madh song writing",
       "മദ്ഹ് രചന",
+      "മദ്ഹ് ഗാന രചന",
       "madh writing"
     ],
     "section": "writings",
@@ -3775,10 +3775,10 @@ const programmes = [
     "name": "മുഖ്തസർ കഹാനി",
     "nameEn": "Mukhtasar Kahani",
     "aliases": [
-      "mukhtasar kahani",
       "Mukhtasar Kahani",
-      "urdu short story",
       "മുഖ്തസർ കഹാനി",
+      "urdu short story",
+      "mukhtasar kahani",
       "urdu story"
     ],
     "section": "writings",
@@ -3843,12 +3843,12 @@ const programmes = [
     "name": "കാലിഗ്രഫി",
     "nameEn": "Calligraphy",
     "aliases": [
+      "കാലിഗ്രഫി",
+      "ഖലം",
+      "Calligraphy",
       "qalam",
       "calligraphy",
-      "ഖലം",
-      "arabic calligraphy",
-      "Calligraphy",
-      "കാലിഗ്രഫി"
+      "arabic calligraphy"
     ],
     "section": "writings",
     "category": "WRITINGS",
@@ -3922,9 +3922,9 @@ const programmes = [
     "aliases": [
       "poem translation",
       "പദ്യം പരിവർത്തനം",
-      "poem conversion",
+      "പോം കൺവേർഷൻ",
       "Poem Conversion",
-      "പോം കൺവേർഷൻ"
+      "poem conversion"
     ],
     "section": "writings",
     "category": "WRITINGS",
@@ -3989,11 +3989,11 @@ const programmes = [
     "name": "ഫീച്ചർ റൈറ്റിങ്",
     "nameEn": "Feature Writing",
     "aliases": [
-      "Feature Writing",
       "ഫീച്ചർ എഴുത്ത്",
       "ഫീച്ചർ റൈറ്റിങ്",
-      "feature",
-      "feature writing"
+      "feature writing",
+      "Feature Writing",
+      "feature"
     ],
     "section": "writings",
     "category": "WRITINGS",
@@ -4050,10 +4050,10 @@ const programmes = [
     "nameEn": "Research Paper Writing",
     "aliases": [
       "research paper writing",
-      "റിസർച്ച് പേപ്പർ റൈറ്റിങ്",
       "റിസർച്ച് പേപ്പർ റെെറ്റിങ്",
       "Research Paper Writing",
-      "research paper"
+      "research paper",
+      "റിസർച്ച് പേപ്പർ റൈറ്റിങ്"
     ],
     "section": "writings",
     "category": "WRITINGS",
@@ -4125,10 +4125,10 @@ const programmes = [
     "name": "മാപ്പിളപ്പാട്ട് രചന",
     "nameEn": "Mappila Pattu Writing",
     "aliases": [
-      "mappila song writing",
+      "Mappila Pattu Writing",
       "മാപ്പിളപ്പാട്ട്",
       "മാപ്പിളപ്പാട്ട് രചന",
-      "Mappila Pattu Writing",
+      "mappila song writing",
       "mappila pattu writing"
     ],
     "section": "writings",
@@ -4194,11 +4194,11 @@ const programmes = [
     "nameEn": "Pencil Art",
     "aliases": [
       "Pencil Art",
-      "പെൻസിൽ ആർട്ട്",
-      "പെൻസിൽ ഡ്രോയിങ്",
       "pencil art",
+      "sketching",
       "pencil drawing",
-      "sketching"
+      "പെൻസിൽ ഡ്രോയിങ്",
+      "പെൻസിൽ ആർട്ട്"
     ],
     "section": "writings",
     "category": "WRITINGS",
@@ -4262,11 +4262,11 @@ const programmes = [
     "name": "സ്പോട്ട് മാഗസിൻ",
     "nameEn": "Spot Magazine",
     "aliases": [
-      "spot magazine",
-      "Spot Magazine",
       "സ്പോട്ട് മാഗസിൻ",
       "magazine",
-      "handmade magazine"
+      "handmade magazine",
+      "spot magazine",
+      "Spot Magazine"
     ],
     "section": "writings",
     "category": "WRITINGS",
@@ -4338,11 +4338,11 @@ const programmes = [
     "name": "ഖുർആൻ ആർട്ടിക്കിൾ",
     "nameEn": "Quran Article",
     "aliases": [
-      "ഖുർആൻ ആർട്ടിക്കിൾ",
       "quran article",
-      "tafsir article",
       "quran essay",
-      "Quran Article"
+      "tafsir article",
+      "Quran Article",
+      "ഖുർആൻ ആർട്ടിക്കിൾ"
     ],
     "section": "writings",
     "category": "WRITINGS",
@@ -4406,11 +4406,11 @@ const programmes = [
     "name": "ചുമരെഴുത്ത്",
     "nameEn": "Wall Writing",
     "aliases": [
+      "chumarezhethu",
+      "wall writing",
       "wall magazine",
       "Wall Writing",
-      "wall writing",
       "ചുമരെഴുത്ത്",
-      "chumarezhethu",
       "ചുമർ പത്രിക"
     ],
     "section": "writings",
@@ -4475,13 +4475,13 @@ const programmes = [
     "name": "റീ ടെക്സ്റ്റ്",
     "nameEn": "Re-Text",
     "aliases": [
-      "re-text",
-      "റീ ടെക്സ്റ്റ്",
-      "റീ-ടെക്സ്റ്റ്",
-      "counter critique",
       "refutation",
-      "re text",
-      "Re-Text"
+      "counter critique",
+      "റീ ടെക്സ്റ്റ്",
+      "re-text",
+      "റീ-ടെക്സ്റ്റ്",
+      "Re-Text",
+      "re text"
     ],
     "section": "writings",
     "category": "WRITINGS",
@@ -4545,13 +4545,13 @@ const programmes = [
     "name": "പോസ്റ്റർ ഡിസൈനിങ്",
     "nameEn": "Poster Designing (Handmade)",
     "aliases": [
-      "poster designing (handmade)",
-      "poster designing",
-      "handmade poster",
-      "Poster Designing (Handmade)",
-      "പോസ്റ്റർ ഡിസൈനിങ്",
+      "പോസ്റ്റർ ഡിസൈൻ",
       "chart poster",
-      "പോസ്റ്റർ ഡിസൈൻ"
+      "handmade poster",
+      "പോസ്റ്റർ ഡിസൈനിങ്",
+      "Poster Designing (Handmade)",
+      "poster designing",
+      "poster designing (handmade)"
     ],
     "section": "writings",
     "category": "WRITINGS",
@@ -4615,11 +4615,11 @@ const programmes = [
     "name": "ടെക്സ്റ്റ്വൽ ഡിസ്കഷൻ",
     "nameEn": "Textual Discussion",
     "aliases": [
-      "ടെക്സ്ച്വൽ ഡിസ്കഷൻ",
-      "book discussion",
       "Textual Discussion",
       "ടെക്സ്റ്റ്വൽ ഡിസ്കഷൻ",
-      "textual discussion"
+      "textual discussion",
+      "ടെക്സ്ച്വൽ ഡിസ്കഷൻ",
+      "book discussion"
     ],
     "section": "iq",
     "category": "IQ SKILL",
@@ -4675,11 +4675,11 @@ const programmes = [
     "name": "മസ്അല ടെസ്റ്റ്",
     "nameEn": "Masala Test",
     "aliases": [
+      "മസ്അല ടെസ്റ്റ്",
       "fiqh test",
-      "Masala Test",
       "masala test",
-      "masala",
-      "മസ്അല ടെസ്റ്റ്"
+      "Masala Test",
+      "masala"
     ],
     "section": "iq",
     "category": "IQ SKILL",
@@ -4744,8 +4744,8 @@ const programmes = [
     "name": "ബുക്ക് ടെസ്റ്റ്",
     "nameEn": "Book Test",
     "aliases": [
-      "reading test",
       "Book Test",
+      "reading test",
       "ബുക്ക് ടെസ്റ്റ്",
       "book test"
     ],
@@ -4812,12 +4812,12 @@ const programmes = [
     "name": "മാത് സ് റിലേ",
     "nameEn": "Maths Relay",
     "aliases": [
-      "Maths Relay",
-      "math relay",
+      "maths relay",
+      "mathematics",
       "മാത് സ് റിലേ",
       "മാത്സ് റിലേ",
-      "mathematics",
-      "maths relay"
+      "math relay",
+      "Maths Relay"
     ],
     "section": "iq",
     "category": "IQ SKILL",
@@ -4882,12 +4882,12 @@ const programmes = [
     "name": "സ്പോട്ട് ദഅവ",
     "nameEn": "Spot Da'wah",
     "aliases": [
-      "dawah",
-      "സ്പോട്ട് ദഅവ",
-      "spot da'wah",
-      "സ്പോട്ട് ദഅ്വ",
+      "Spot Da'wah",
       "spot dawah",
-      "Spot Da'wah"
+      "സ്പോട്ട് ദഅ്വ",
+      "spot da'wah",
+      "സ്പോട്ട് ദഅവ",
+      "dawah"
     ],
     "section": "iq",
     "category": "IQ SKILL",
@@ -4951,12 +4951,12 @@ const programmes = [
     "name": "ഹിഫ്ള്",
     "nameEn": "Hifz",
     "aliases": [
-      "quran memorization",
       "Hifz",
-      "tahfeez",
+      "hifz",
+      "quran memorization",
       "ഹിഫ്ള്",
       "ഹിഫ്ല്",
-      "hifz"
+      "tahfeez"
     ],
     "section": "iq",
     "category": "IQ SKILL",
@@ -5020,11 +5020,11 @@ const programmes = [
     "name": "മുശാഅറ",
     "nameEn": "Musha'ara",
     "aliases": [
-      "musha'ara",
       "Musha'ara",
       "bait",
-      "mushaara",
+      "musha'ara",
       "മുശാഅറ",
+      "mushaara",
       "arabic poetry duel"
     ],
     "section": "iq",
@@ -5089,11 +5089,11 @@ const programmes = [
     "name": "ബ്രെയിൻ ബാറ്റിൽ",
     "nameEn": "Brain Battle",
     "aliases": [
+      "brain battle",
       "ബ്രെയിൻ ബാറ്റിൽ",
-      "Brain Battle",
       "general quiz",
-      "quiz",
-      "brain battle"
+      "Brain Battle",
+      "quiz"
     ],
     "section": "iq",
     "category": "IQ SKILL",
@@ -5150,11 +5150,11 @@ const programmes = [
     "name": "നെറ്റ് ടെസ്റ്റ്",
     "nameEn": "Net Test",
     "aliases": [
+      "നെറ്റ് ടെസ്റ്റ്",
+      "net test",
       "ugc net",
       "Net Test",
-      "നെറ്റ് ടെസ്റ്റ്",
-      "net mock test",
-      "net test"
+      "net mock test"
     ],
     "section": "iq",
     "category": "IQ SKILL",
@@ -5219,12 +5219,12 @@ const programmes = [
     "name": "ലിസണിംഗ് ടെസ്റ്റ്",
     "nameEn": "Listening Test",
     "aliases": [
-      "ലിസണിംഗ് ടെസ്റ്റ്",
-      "ലിസണിങ് ടെസ്റ്റ്",
       "Listening Test",
+      "audio test",
+      "ലിസണിങ് ടെസ്റ്റ്",
       "comprehension test",
       "listening test",
-      "audio test"
+      "ലിസണിംഗ് ടെസ്റ്റ്"
     ],
     "section": "iq",
     "category": "IQ SKILL",
@@ -5296,13 +5296,13 @@ const programmes = [
     "name": "ഫറാഇദ് കോണ്ടസ്റ്റ്",
     "nameEn": "Fara'id Contest",
     "aliases": [
-      "ഫറാഇദ് കോൺടെസ്റ്റ്",
+      "faraid",
+      "faraid contest",
+      "islamic inheritance",
       "Fara'id Contest",
       "fara'id contest",
-      "faraid",
-      "ഫറാഇദ് കോണ്ടസ്റ്റ്",
-      "faraid contest",
-      "islamic inheritance"
+      "ഫറാഇദ് കോൺടെസ്റ്റ്",
+      "ഫറാഇദ് കോണ്ടസ്റ്റ്"
     ],
     "section": "makthaba",
     "category": "MAKTHABA",
@@ -5367,12 +5367,12 @@ const programmes = [
     "name": "ലോജിക്കൽ റീസണിങ്",
     "nameEn": "Logical Reasoning",
     "aliases": [
-      "logical reasoning",
+      "ലോജിക്കൽ റീസണിങ്",
       "ilm al mantiq",
       "mantiq",
-      "ലോജിക്കൽ റീസണിങ്",
+      "Logical Reasoning",
       "logic",
-      "Logical Reasoning"
+      "logical reasoning"
     ],
     "section": "makthaba",
     "category": "MAKTHABA",
@@ -5437,11 +5437,11 @@ const programmes = [
     "name": "മക്തബ ജീനിയസ്",
     "nameEn": "Makthaba Genius",
     "aliases": [
+      "മക്തബ ജീനിയസ്",
       "Makthaba Genius",
-      "library genius",
-      "makthaba genius",
       "kitab presentation",
-      "മക്തബ ജീനിയസ്"
+      "library genius",
+      "makthaba genius"
     ],
     "section": "makthaba",
     "category": "MAKTHABA",
@@ -5513,10 +5513,10 @@ const programmes = [
     "name": "ബലാഗ ടെസ്റ്റ്",
     "nameEn": "Balagha Test",
     "aliases": [
-      "ബലാഗ ടെസ്റ്റ്",
-      "balagha test",
       "Balagha Test",
+      "ബലാഗ ടെസ്റ്റ്",
       "balagha",
+      "balagha test",
       "ബലാഗാ ടെസ്റ്റ്",
       "arabic rhetoric",
       "blog test"
@@ -5585,9 +5585,9 @@ const programmes = [
     "nameEn": "Manuscript Reading",
     "aliases": [
       "Manuscript Reading",
+      "manuscript",
       "കൈയെഴുത്തുപ്രതി വായന",
       "manuscript reading",
-      "manuscript",
       "മാനുസ്ക്രിപ്റ്റ് റീഡിങ്"
     ],
     "section": "makthaba",
@@ -5652,12 +5652,12 @@ const programmes = [
     "name": "ഹദീസ് കോണ്ടസ്റ്റ്",
     "nameEn": "Hadith Contest",
     "aliases": [
-      "hadith",
-      "Hadith Contest",
-      "hadith contest",
-      "hadith quiz",
+      "ഹദീസ് കോൺടെസ്റ്റ്",
       "ഹദീസ് കോണ്ടസ്റ്റ്",
-      "ഹദീസ് കോൺടെസ്റ്റ്"
+      "Hadith Contest",
+      "hadith",
+      "hadith contest",
+      "hadith quiz"
     ],
     "section": "makthaba",
     "category": "MAKTHABA",
@@ -5722,12 +5722,12 @@ const programmes = [
     "name": "തദ്രീസ്",
     "nameEn": "Tadrees",
     "aliases": [
-      "Tadrees",
-      "teaching dars",
       "dars lecture",
+      "Tadrees",
       "tadrees",
-      "തദ്‌രീസ്",
-      "തദ്രീസ്"
+      "teaching dars",
+      "തദ്രീസ്",
+      "തദ്‌രീസ്"
     ],
     "section": "makthaba",
     "category": "MAKTHABA",
@@ -5800,13 +5800,13 @@ const programmes = [
     "name": "തഅ് യീനുൽ ഫുനൂൻ",
     "nameEn": "Ta'yeenul Funoon",
     "aliases": [
-      "google sheets",
-      "kitab sorting",
-      "തഅ്‌ലീമുൽ ഫുനൂൻ",
       "tayeenul funoon",
-      "Ta'yeenul Funoon",
+      "തഅ് യീനുൽ ഫുനൂൻ",
       "ta'yeenul funoon",
-      "തഅ് യീനുൽ ഫുനൂൻ"
+      "Ta'yeenul Funoon",
+      "kitab sorting",
+      "google sheets",
+      "തഅ്‌ലീമുൽ ഫുനൂൻ"
     ],
     "section": "makthaba",
     "category": "MAKTHABA",
@@ -5881,10 +5881,10 @@ const programmes = [
     "aliases": [
       "kitab compilation",
       "Tasneef",
-      "authorship",
-      "book writing",
       "tasneef",
-      "തസ്നീഫ്"
+      "തസ്നീഫ്",
+      "authorship",
+      "book writing"
     ],
     "section": "makthaba",
     "category": "MAKTHABA",
@@ -5949,13 +5949,13 @@ const programmes = [
     "name": "പൊതുനിയമങ്ങൾ",
     "nameEn": "General Rules",
     "aliases": [
-      "general rules",
-      "eligibility",
       "പൊതുനിയമങ്ങൾ",
-      "പൊതു നിർദേശങ്ങൾ",
-      "നിയമങ്ങൾ",
+      "rules",
       "General Rules",
-      "rules"
+      "പൊതു നിർദേശങ്ങൾ",
+      "general rules",
+      "നിയമങ്ങൾ",
+      "eligibility"
     ],
     "section": "general",
     "category": "GENERAL RULES",
@@ -6010,14 +6010,14 @@ const programmes = [
     "name": "റിപ്പോർട്ടിങ് പ്രോട്ടോക്കോൾ",
     "nameEn": "Reporting Protocol",
     "aliases": [
+      "റിപ്പോർട്ടിങ്",
+      "reporting",
       "report time",
-      "റിപ്പോർട്ടിങ് പ്രോട്ടോക്കോൾ",
       "reporting protocol",
       "green room",
+      "Reporting Protocol",
       "ഗ്രീൻ റൂം",
-      "reporting",
-      "റിപ്പോർട്ടിങ്",
-      "Reporting Protocol"
+      "റിപ്പോർട്ടിങ് പ്രോട്ടോക്കോൾ"
     ],
     "section": "general",
     "category": "GENERAL RULES",
@@ -6072,14 +6072,14 @@ const programmes = [
     "name": "മാർക്ക് നിർണയ രീതി",
     "nameEn": "Marking & Grading System",
     "aliases": [
-      "points",
-      "grading",
-      "marking system",
+      "marking & grading system",
+      "ഗ്രേഡിങ്",
+      "മാർക്ക് നിർണയ രീതി",
       "മാർക്ക്",
       "Marking & Grading System",
-      "marking & grading system",
-      "മാർക്ക് നിർണയ രീതി",
-      "ഗ്രേഡിങ്"
+      "grading",
+      "marking system",
+      "points"
     ],
     "section": "general",
     "category": "GENERAL RULES",
@@ -6134,15 +6134,15 @@ const programmes = [
     "name": "കലാപ്രതിഭ & സർഗ്ഗപ്രതിഭ",
     "nameEn": "Kalaprathibha & Sargaprathibha",
     "aliases": [
+      "സർഗ്ഗപ്രതിഭ",
+      "individual championship",
       "kalaprathibha & sargaprathibha",
-      "kalaprathibha",
-      "individual points",
       "കലാപ്രതിഭ & സർഗ്ഗപ്രതിഭ",
       "Kalaprathibha & Sargaprathibha",
-      "സർഗ്ഗപ്രതിഭ",
-      "കലാപ്രതിഭ",
+      "individual points",
       "sargaprathibha",
-      "individual championship"
+      "കലാപ്രതിഭ",
+      "kalaprathibha"
     ],
     "section": "general",
     "category": "GENERAL RULES",
@@ -6197,16 +6197,16 @@ const programmes = [
     "name": "പരാതികളും അപ്പീലുകളും",
     "nameEn": "Grievance & Appeals Protocol",
     "aliases": [
-      "plagiarism",
-      "പരാതികൾ",
-      "complaints",
-      "grievances",
-      "Grievance & Appeals Protocol",
-      "പരാതികളും അപ്പീലുകളും",
-      "disputes",
       "അപ്പീൽ",
       "grievance & appeals protocol",
-      "appeals"
+      "plagiarism",
+      "പരാതികൾ",
+      "പരാതികളും അപ്പീലുകളും",
+      "complaints",
+      "Grievance & Appeals Protocol",
+      "grievances",
+      "appeals",
+      "disputes"
     ],
     "section": "general",
     "category": "GENERAL RULES",
@@ -6261,15 +6261,15 @@ const programmes = [
     "name": "ക്ലാഷ് ഫോം & ഗ്രീൻ റൂം",
     "nameEn": "Clash Form & Green Room Rules",
     "aliases": [
+      "schedule conflict",
+      "ക്ലാഷ് ഫോം",
       "Clash Form & Green Room Rules",
+      "clash form",
       "green room",
       "ഗ്രീൻ റൂം",
-      "clash form",
       "ക്ലാഷ് ഫോം & ഗ്രീൻ റൂം",
       "reporting time",
-      "ക്ലാഷ് ഫോം",
-      "clash form & green room rules",
-      "schedule conflict"
+      "clash form & green room rules"
     ],
     "section": "general",
     "category": "GENERAL RULES",
@@ -6995,7 +6995,7 @@ updateInterface();
 
 if ('serviceWorker' in navigator && location.protocol !== 'file:') {
   window.addEventListener('load', () => {
-    navigator.serviceWorker.register('./sw.js?v=27').then(reg => {
+    navigator.serviceWorker.register('./sw.js?v=28').then(reg => {
       reg.update();
     }).catch(err => console.warn('SW registration warning:', err));
   });

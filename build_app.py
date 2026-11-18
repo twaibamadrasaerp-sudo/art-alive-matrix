@@ -690,7 +690,7 @@ updateInterface();
 
 if ('serviceWorker' in navigator && location.protocol !== 'file:') {
   window.addEventListener('load', () => {
-    navigator.serviceWorker.register('./sw.js?v=27').then(reg => {
+    navigator.serviceWorker.register('./sw.js?v=28').then(reg => {
       reg.update();
     }).catch(err => console.warn('SW registration warning:', err));
   });
