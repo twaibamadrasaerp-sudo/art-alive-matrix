@@ -1,0 +1,210 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#080808" />
+    <meta name="description" content="MATRIX 26 festival rule guide" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="MATRIX 26" />
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="apple-touch-icon" href="art%20png.png" />
+    <link rel="icon" href="icon.svg" type="image/svg+xml" />
+    <title>MATRIX 26 | Festival Guide</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Anek+Latin:wght@400;500;600;700&family=Anek+Malayalam:wght@400;500;600;700&family=DM+Mono:wght@400;500&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css?v=26" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="landing" id="landing" aria-labelledby="landing-title">
+        <div class="ambient ambient-one"></div>
+        <div class="ambient ambient-two"></div>
+        <header class="landing-header">
+          <p class="eyebrow" id="landingEyebrow">ARTALIVE 13TH EDITION</p>
+          <button class="text-button install-button" id="installLanding" type="button">Install</button>
+        </header>
+
+        <div class="hero">
+          <img class="festival-logo" src="art%20png.png" alt="MATRIX 26 festival logo" />
+          <p class="overline" id="landingOverline">FESTIVAL INTELLIGENCE</p>
+          <h1 id="landing-title">Hi, Welcome to<br /><span>MATRIX.</span></h1>
+          <p class="intro" id="landingIntro">Send a programme, section, or level. Find MATRIX 26 rules and details instantly.</p>
+          <div class="name-pill-wrapper">
+            <button class="name-pill" id="openNameModal" type="button" aria-label="Personalize your name">
+              <span class="name-pill-avatar" id="namePillAvatar">M</span>
+              <span class="name-pill-text" id="namePillText">Set your name</span>
+              <span class="name-pill-action">
+                <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M17 3a2.85 2.83 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5Z"/></svg>
+              </span>
+            </button>
+          </div>
+        </div>
+
+        <div class="orb-zone">
+          <button class="orb-button" id="startChat" type="button" aria-label="Open MATRIX guide">
+            <span class="orb-core"></span>
+            <span class="orb-ring ring-one"></span>
+            <span class="orb-ring ring-two"></span>
+            <span class="orb-specular"></span>
+          </button>
+          <p id="orbInstruction">Tap to begin</p>
+        </div>
+
+        <footer class="landing-footer">
+          <span>MA'DIN KULLIYA OF ISLAMIC SCIENCE</span>
+          <button class="dev-trigger" id="devTriggerLanding" type="button" aria-label="Developer details">
+            <img class="dev-icon" src="qalamxlabs_icon.png" alt="" />
+            <span>Crafted by <strong>QalamX Labs</strong></span>
+          </button>
+          <span>01 / 01</span>
+        </footer>
+      </section>
+
+      <section class="chat-screen" id="chatScreen" aria-label="MATRIX rule guide" hidden>
+        <header class="chat-header">
+          <button class="brand-button" id="goHome" type="button" aria-label="Return to start">
+            <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+            <span><strong>MATRIX</strong><small>FESTIVAL GUIDE</small></span>
+          </button>
+          <div class="header-actions">
+            <button class="mode-toggle" id="languageToggle" type="button" aria-label="Switch to English" title="Switch language"><span>മ</span><b>EN</b></button>
+            <button class="icon-button theme-toggle" id="themeToggle" type="button" aria-label="Use light theme" title="Theme">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="3.5" /><path d="M12 2v2.2M12 19.8V22M22 12h-2.2M4.2 12H2M19.1 4.9l-1.6 1.6M6.5 17.5l-1.6 1.6M19.1 19.1l-1.6-1.6M6.5 6.5 4.9 4.9" /></svg>
+            </button>
+            <button class="icon-button" id="clearChat" type="button" aria-label="Clear conversation" title="Clear conversation">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M9 7V4h6v3m-8 0 1 13h8l1-13" /></svg>
+            </button>
+            <button class="icon-button" id="installChat" type="button" aria-label="Install app" title="Install app">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0-12 4 4m-4-4-4 4M5 14v5h14v-5" /></svg>
+            </button>
+          </div>
+        </header>
+
+        <div class="status-line" id="statusLine"><span></span><em>RULEBOOK CONNECTED</em><b>2026</b></div>
+
+        <div class="conversation" id="conversation" aria-live="polite" aria-relevant="additions"></div>
+
+        <section class="suggestions" id="suggestions" aria-label="Suggested questions">
+          <button type="button" data-prompt="AI Prompting">AI Prompting</button>
+          <button type="button" data-prompt="ഇ-പോസ്റ്റർ">ഇ-പോസ്റ്റർ</button>
+          <button type="button" data-prompt="Vocal">Vocal</button>
+          <button type="button" data-prompt="Senior">Senior</button>
+        </section>
+
+        <form class="composer" id="composer">
+          <label class="sr-only" for="prompt" id="promptLabel">പരിപാടിയുടെ പേര് നൽകുക</label>
+          <input id="prompt" name="prompt" autocomplete="off" placeholder="പരിപാടിയുടെ പേര് നൽകുക" />
+          <button class="send-button" type="submit" aria-label="Send question">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m4 12 15-8-4 16-3.5-6.5L4 12Zm7.5 1.5L19 4" /></svg>
+          </button>
+        </form>
+        <div class="chat-footer-zone">
+          <p class="privacy-note" id="privacyNote">വിവരങ്ങളിൽ തെറ്റുകൾ സംഭവിച്ചേക്കാം; സ്ഥിരീകരണത്തിന് ഒഫീഷ്യൽ സർക്കുലർ പരിശോധിക്കുക.</p>
+          <div class="dev-attribution">
+            <button class="dev-trigger" id="devTriggerChat" type="button" aria-label="Developer details">
+              <img class="dev-icon" src="qalamxlabs_icon.png" alt="" />
+              <span>Developed by <strong>QalamX Labs</strong></span>
+            </button>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <dialog class="name-dialog" id="nameDialog">
+      <button class="dialog-close" id="closeNameDialog" type="button" aria-label="Close">×</button>
+      <p class="overline">PERSONALIZED FESTIVAL GUIDE</p>
+      <h2>Welcome to MATRIX 26</h2>
+      <p class="dialog-desc">What should we call you? Your name will be saved locally on this device.</p>
+      <form id="nameForm" method="dialog">
+        <input class="name-input" id="userNameInput" placeholder="Enter your name (e.g. Sayyid)" maxlength="30" autocomplete="name" required />
+        <div class="name-actions">
+          <button class="ghost-button" id="skipNameBtn" type="button">Skip for now</button>
+          <button class="primary-button" id="saveNameBtn" type="submit">Continue</button>
+        </div>
+      </form>
+    </dialog>
+
+    <dialog class="install-dialog" id="installDialog">
+      <button class="dialog-close" id="closeInstall" type="button" aria-label="Close">×</button>
+      <p class="overline">MATRIX 26 ON YOUR PHONE</p>
+      <h2>Install Festival Guide</h2>
+      <div id="installInstructions"></div>
+    </dialog>
+
+    <dialog class="dev-dialog" id="devDialog">
+      <button class="dialog-close" id="closeDevDialog" type="button" aria-label="Close">×</button>
+      <div class="dev-dialog-header">
+        <img class="dev-dialog-logo" src="qalamxlabs_icon.png" alt="QalamX Labs Logo" />
+        <span class="dev-dialog-badge">OFFICIAL ENGINEERING PARTNER</span>
+        <h2>QalamX Labs</h2>
+        <p class="dev-dialog-tagline">Digital Innovation &amp; Creative Engineering Studio</p>
+      </div>
+      <div class="dev-links-list">
+        <a href="https://www.qalamxlabs.com" target="_blank" rel="noopener noreferrer" class="dev-link-card">
+          <span class="dev-link-icon">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15 15 0 0 1 4 10 15 15 0 0 1-4 10 15 15 0 0 1-4-10 15 15 0 0 1 4-10z"/></svg>
+          </span>
+          <div class="dev-link-text">
+            <small>Official Website</small>
+            <strong>www.qalamxlabs.com</strong>
+          </div>
+          <span class="dev-link-arrow">↗</span>
+        </a>
+        <a href="https://www.instagram.com/qalamxlabs?stkn=aXp0YmdxMHJvbnUy" target="_blank" rel="noopener noreferrer" class="dev-link-card">
+          <span class="dev-link-icon">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor"/></svg>
+          </span>
+          <div class="dev-link-text">
+            <small>Instagram</small>
+            <strong>@qalamxlabs</strong>
+          </div>
+          <span class="dev-link-arrow">↗</span>
+        </a>
+        <a href="https://wa.me/919072987614" target="_blank" rel="noopener noreferrer" class="dev-link-card">
+          <span class="dev-link-icon">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 11.5a8.4 8.4 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.4 8.4 0 0 1-3.8-.9L3 21l1.9-5.7a8.4 8.4 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.4 8.4 0 0 1 3.8-.9h.5a8.5 8.5 0 0 1 8 8v.5z"/></svg>
+          </span>
+          <div class="dev-link-text">
+            <small>WhatsApp Support</small>
+            <strong>+91 90729 87614</strong>
+          </div>
+          <span class="dev-link-arrow">↗</span>
+        </a>
+        <a href="mailto:qalamxlabs@gmail.com" class="dev-link-card">
+          <span class="dev-link-icon">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-10 6L2 7"/></svg>
+          </span>
+          <div class="dev-link-text">
+            <small>Email Desk</small>
+            <strong>qalamxlabs@gmail.com</strong>
+          </div>
+          <span class="dev-link-arrow">↗</span>
+        </a>
+      </div>
+      <div class="dev-dialog-footer">
+        <button class="primary-button" id="dismissDevDialog" type="button">Close</button>
+      </div>
+    </dialog>
+
+    <div class="security-shield" id="securityShield" aria-live="assertive">
+      <h3>PROTECTED CONTENT</h3>
+      <p>MATRIX 26 Official Festival Guide is confidential and protected.</p>
+    </div>
+
+    <template id="welcomeTemplate">
+      <article class="message assistant-message welcome-message">
+        <div class="message-top"><span class="assistant-avatar"></span><span>MATRIX GUIDE</span><time>READY</time></div>
+        <div class="message-body">
+          <p>Hello. Send a programme name, section, or level to find MATRIX 26 rules and details.</p>
+          <p class="muted">Try: <button class="inline-prompt" type="button" data-prompt="Caption Song">Caption Song</button> · <button class="inline-prompt" type="button" data-prompt="AI">AI</button> · <button class="inline-prompt" type="button" data-prompt="Vocal">Vocal</button></p>
+        </div>
+      </article>
+    </template>
+
+    <script src="app.js?v=26"></script>
+  </body>
+</html>

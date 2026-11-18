@@ -1,0 +1,34 @@
+{
+  "developer": {
+    "name": "QalamX Labs",
+    "legalName": "QalamX Labs Digital Technologies",
+    "tagline": "Digital Innovation & Creative Engineering Studio",
+    "badge": "Official Engineering Partner",
+    "logo": "qalamxlabs.png"
+  },
+  "socialMedia": {
+    "instagram": {
+      "platform": "Instagram",
+      "handle": "@qalamxlabs",
+      "linkText": "@qalamxlabs",
+      "url": "https://www.instagram.com/qalamxlabs?stkn=aXp0YmdxMHJvbnUy"
+    },
+    "website": {
+      "platform": "Official Website",
+      "displayText": "www.qalamxlabs.com",
+      "url": "https://www.qalamxlabs.com"
+    },
+    "whatsapp": {
+      "platform": "WhatsApp Support",
+      "displayText": "+91 90729 87614",
+      "phoneNumber": "+919072987614",
+      "url": "https://wa.me/919072987614"
+    },
+    "email": {
+      "platform": "Email Desk",
+      "displayText": "qalamxlabs@gmail.com",
+      "emailAddress": "qalamxlabs@gmail.com",
+      "url": "mailto:qalamxlabs@gmail.com"
+    }
+  }
+}

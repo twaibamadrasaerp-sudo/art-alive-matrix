@@ -1,0 +1,16 @@
+{
+  "name": "MATRIX 26 Festival Guide",
+  "short_name": "MATRIX 26",
+  "description": "Malayalam guide to MATRIX 26 festival programmes and rules.",
+  "lang": "ml",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090909",
+  "theme_color": "#090909",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" },
+    { "src": "art%20png.png", "sizes": "13975x6225", "type": "image/png", "purpose": "any" }
+  ]
+}

@@ -1,0 +1,13 @@
+# Confidential raw documents & PDFs
+_confidential_raw_docs/
+*.pdf
+
+# Environment & local files
+.env
+.env.local
+.DS_Store
+Thumbs.db
+
+# Vercel & build artifacts
+.vercel/
+*.log

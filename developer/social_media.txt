@@ -1,0 +1,37 @@
+================================================================================
+QALAMX LABS - DEVELOPER SOCIAL MEDIA & CONTACT DATA
+================================================================================
+
+Developer     : QalamX Labs
+Legal Name    : QalamX Labs Digital Technologies
+Tagline       : Digital Innovation & Creative Engineering Studio
+Role          : Official Engineering Partner
+Logo File     : qalamxlabs.png
+
+--------------------------------------------------------------------------------
+SOCIAL MEDIA & CONNECTIVITY
+--------------------------------------------------------------------------------
+
+1. INSTAGRAM
+   Platform     : Instagram
+   Link Text    : @qalamxlabs
+   Direct URL   : https://www.instagram.com/qalamxlabs?stkn=aXp0YmdxMHJvbnUy
+   Handle       : @qalamxlabs
+
+2. OFFICIAL WEBSITE
+   Platform     : Web
+   Link Text    : www.qalamxlabs.com
+   Direct URL   : https://www.qalamxlabs.com
+
+3. WHATSAPP SUPPORT
+   Platform     : WhatsApp
+   Link Text    : +91 90729 87614
+   Direct URL   : https://wa.me/919072987614
+   Phone Number : +919072987614
+
+4. EMAIL DESK
+   Platform     : Email
+   Link Text    : qalamxlabs@gmail.com
+   Direct URL   : mailto:qalamxlabs@gmail.com
+
+================================================================================
