@@ -263,7 +263,7 @@ function updateInterface() {
   els.prompt.placeholder = words.prompt;
   els.prompt.setAttribute('aria-label', words.prompt);
   els.promptLabel.textContent = words.prompt;
-  els.privacy.textContent = words.privacy;
+  if (els.privacy) els.privacy.textContent = words.privacy;
   els.language.classList.toggle('is-english', language === 'en');
   els.language.setAttribute('aria-label', language === 'en' ? 'Switch to Malayalam' : 'Switch to English');
   els.language.title = language === 'en' ? 'മലയാളം' : 'English';
@@ -690,7 +690,7 @@ updateInterface();
 
 if ('serviceWorker' in navigator && location.protocol !== 'file:') {
   window.addEventListener('load', () => {
-    navigator.serviceWorker.register('./sw.js?v=26').then(reg => {
+    navigator.serviceWorker.register('./sw.js?v=27').then(reg => {
       reg.update();
     }).catch(err => console.warn('SW registration warning:', err));
   });
